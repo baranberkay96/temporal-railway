@@ -1,0 +1,9 @@
+# Temporal dynamic configuration for this Railway template.
+# Reference: https://docs.temporal.io/references/dynamic-configuration
+# The server re-reads this file every 60 s; values here override defaults.
+
+# Allow IDs (workflow, task queue, …) up to 255 characters, as in the
+# upstream SQL compose configuration.
+limit.maxIDLength:
+  - value: 255
+    constraints: {}
