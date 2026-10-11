@@ -1,5 +1,7 @@
 # Deploy and Host Temporal with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/temporal-v1-durable-workflows-server)
+
 Temporal is an open-source durable execution platform: you write workflows as ordinary code in Go, Java, TypeScript, Python, .NET, PHP or Ruby, and Temporal persists every step so they survive crashes, retries and deploys. This community template runs a self-hosted Temporal Server with PostgreSQL and a password-protected Web UI on Railway.
 
 ## About Hosting Temporal
