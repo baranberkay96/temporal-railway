@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | Listing name | **Temporal v1 Durable Workflows Server** (version label `v1` = Temporal Server major; tags are `v1.32.1`) |
-| Description | Run reliable, retryable workflows in any language. Temporal server plus Web UI. (79 chars, unchanged) |
+| Description | Reliable, retryable workflows in any language. Temporal server plus Web UI. (79 chars, unchanged) |
 | Category | Queues |
 | Tags | temporal, workflows, durable-execution, orchestration, microservices, grpc |
 | Base market template | `temporal-light` (6ixfalls/railway-temporal, 265 projects: server image + admin-tools schema setup in a pre-deploy command, Elasticsearch, UI behind a Caddy basic-auth proxy). Repo has **no license** → structure/ideas only, nothing copied. Also reviewed `temporal` (same author, multi-role) and `temporal-starter` (`railwayapp-templates/temporal`, MIT, uses deprecated `auto-setup:1.21.3`). |

@@ -1,6 +1,6 @@
 {
   "name": "Temporal v1 Durable Workflows Server",
-  "description": "Run reliable, retryable workflows in any language. Temporal server plus Web UI.",
+  "description": "Reliable, retryable workflows in any language. Temporal server plus Web UI.",
   "category": "Queues",
   "tags": [
     "temporal",
